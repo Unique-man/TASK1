@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(57, 210, 72);
+    color:#fff;
+    padding:20px;
+}
+span{
+    color:rgb(234, 78, 78);
+}
+section{
+    background-color: rgb(236, 164, 71);
+    padding: 5px;
+    margin-top: 5px;
+
+}
+ul{
+    display:flex;
+    list-style-type: none;
+    gap :50px;
+}
+li>a{
+    color:#1e1d1d;
+    text-decoration: none;
+    font-weight: bolder;
+}
+li>a:hover{
+     color: #fff;
+}
+footer{
+    background-color: rgb(186, 244, 247);
+    margin-top:250px;
+    padding-bottom: 100px;
+}
+footer >h4{
+    margin-left: 250px ;
+    padding-top: 10px;
+}
+footer >p{
+    margin-left: 220px
+}
